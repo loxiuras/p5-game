@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/loxiuras/p5-game/issues"
   },
-  "homepage": "https://github.com/loxiuras/p5-game#readme"
+  "homepage": "https://github.com/loxiuras/p5-game#readme",
+  "dependencies": {
+    "p5": "^1.3.0"
+  }
 }
