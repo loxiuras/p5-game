@@ -1,0 +1,23 @@
+{
+  "name": "p5-game",
+  "version": "1.0.0",
+  "description": "P5 Game",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loxiuras/p5-game.git"
+  },
+  "keywords": [
+    "P5",
+    "Game",
+    "JS Game",
+    "P5 Game"
+  ],
+  "author": "Loxiuras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loxiuras/p5-game/issues"
+  },
+  "homepage": "https://github.com/loxiuras/p5-game#readme"
+}
